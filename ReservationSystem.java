@@ -3,7 +3,6 @@ package com.bridgelabz;
 import java.util.ArrayList;
 
 public class ReservationSystem {
-	public class HotelDetailsReservationSystem {
 		static ArrayList<HotelDetails> ListAll = new ArrayList<>();
 
 		public static void display() {
@@ -34,4 +33,4 @@ public class ReservationSystem {
 
 	}
 
-}
+
